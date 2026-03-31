@@ -2,7 +2,7 @@
 
 This isn’t a literary project in the formal sense.  
 It’s not a commentary, not a thesis, not a reconstruction.  
-It’s a collection of dialogues that began as a long‑delayed echo from a book I didn’t want to read in **2004**, and a podcast I didn’t expect to inspire anything in **2024**.
+It’s a collection of dialogues that began as a long‑delayed echo from a book I didn’t want to read in **2006**, and a podcast I didn’t expect to inspire anything in **2024**.
 
 Back then, during my studies, I was assigned Leopardi’s *Operette morali*.  
 I read the dialogues of Colombo and Gutierrez with the enthusiasm of someone trying to pass an exam, not unlock a worldview.  
@@ -14,7 +14,7 @@ The book gathered dust.
 
 Then, recently, I started listening to **Au Cœur de l’Histoire** — the Europe 1 podcast that treats history like a cinematic universe with better sound design.  
 Somewhere between an episode on ancient intrigues and a portrait of a forgotten figure, something stirred.  
-A voice I hadn’t heard since 2004 whispered:
+A voice I hadn’t heard since 2006 whispered:
 
 *“What if you wrote new dialogues?  
 Not pastiches — new collisions.  
@@ -25,7 +25,7 @@ And suddenly the old Leopardi spark wasn’t dormant anymore.
 
 At the same time, I found myself experimenting with AI — not as a replacement for imagination, but as a strange, luminous drafting partner.  
 A tool that lets me collide ideas, eras, and worldviews faster than my notebook ever could.  
-These dialogues are the result: a human memory from 2004 meeting a machine’s ability to recombine the improbable.
+These dialogues are the result: a human memory from 2006 meeting a machine’s ability to recombine the improbable.
 
 ---
 
@@ -90,6 +90,6 @@ Let them contradict you.
 Let them echo something you didn’t know you remembered.  
 Let them show what happens when a forgotten book, a history podcast, and a machine’s generative stubbornness collide.
 
-More will come — unexpectedly, inevitably — just like the first spark in 2004.
+More will come — unexpectedly, inevitably — just like the first spark in 2006.
 
 Welcome to the dialogues.
