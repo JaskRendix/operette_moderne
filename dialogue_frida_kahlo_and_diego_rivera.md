@@ -2,8 +2,8 @@
 
 **Characters:**
 
-* **Frida** — Whose paintings are a liturgy of the private anatomy, treating the body as an inexhaustible terrain of grief and resilience.
-* **Diego** — Whose murals are a cartography of the collective, treating history as a tectonic force that can be channeled, if not tamed.
+* **Frida Kahlo** — Whose paintings are a liturgy of the private anatomy, treating the body as an inexhaustible terrain of grief and resilience.
+* **Diego Rivera** — Whose murals are a cartography of the collective, treating history as a tectonic force that can be channeled, if not tamed.
 
 **Setting:**
 *July 13, 1954 — The Blue House. The air is thick with the sediment of long-held disagreements. A plaster cast of a spine rests on the table, its ridges caught in the fading light—the “Silent Third Presence.”*
