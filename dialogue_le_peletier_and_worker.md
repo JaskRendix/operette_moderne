@@ -1,7 +1,7 @@
 # **Dialogue between Louis-Michel Lepeletier and a Sans-culotte**
 
 **Characters:**  
-- **Lepeletier** — A nobleman of the robe, refined, luminous with the fever of the Enlightenment.  
+- **Louis‑Michel Le Peletier de Saint‑Fargeau (Le Peletier)** — A nobleman of the robe, refined, luminous with the fever of the Enlightenment.  
 - **The Worker** — Anonymous, wrapped in a thin, greasy carmagnole, holding a pike like a cane for an old man.
 
 **Setting:**  
