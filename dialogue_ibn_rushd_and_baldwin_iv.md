@@ -1,11 +1,11 @@
-# **Dialogue of Baldwin and Averroes under the Portico of Córdoba**
+# Dialogue of Baldwin and Averroes under the Portico of Córdoba
 
-**Characters:**
+## Characters
 
-* **Ibn Rushd (Averroes)** — The great commentator of Córdoba, grand cadi and philosopher. He speaks with the rhythmic, luminous precision of a mind that believes the universe is a coherent, eternal machine intelligible through human reason.
-* **Baldwin IV** — The Leper King of Jerusalem, worn by physical rot and statecraft. He speaks with the bruised, sensory immediacy of a man whose body and kingdom are crumbling at the exact same speed.
+- **Ibn Rushd (Averroes)** — The great commentator of Córdoba, grand cadi and philosopher. He speaks with the rhythmic, luminous precision of a mind that believes the universe is a coherent, eternal machine intelligible through human reason.
+- **Baldwin IV** — The Leper King of Jerusalem, worn by physical rot and statecraft. He speaks with the bruised, sensory immediacy of a man whose body and kingdom are crumbling at the exact same speed.
 
-**Setting:**
+## Setting
 
 *An isolated, moonlit courtyard in the Great Mosque of Córdoba. The sun has long vanished, leaving a sky of deep indigo. The air is cool, scented with citrus blossoms, damp river silt, and dry parchment. Between them stands a **Silent Third Presence**: an ancient marble basin of still water, fed by an iron pipe that drips once every few long moments, casting concentric rings across the moon’s reflection without ever disturbing the quiet depth of the pool.*
 
@@ -19,7 +19,7 @@
 
 Consider the prime mover, my Lord. The cosmos is not a play written for human tears, but an eternal, uncreated intellect. Aristotle demonstrated that reason is the highest virtue of the soul, the divine spark that links mortal understanding to the celestial spheres. Through the syllogism, we master the passions; through demonstration, we glimpse the immutable cause. Even in a world fragmented by war and religious strife, the intellect remains whole. Is it not a grand comfort to know that above the tumult of kings and empires, the supreme order of the universe stands immaculate, waiting to be comprehended?
 
-*([Moment of False Hope]*
+*([Moment of False Hope])*
 
 *Baldwin rests his bandaged forearm against the cool marble pillar. For a fleeting instant, as the gentle scent of orange blossoms drifts on the night air and the clean symmetry of the arches frames the stars, his mind feels weightless—he imagines that if he could only grip the pure logic of the cosmos, his physical torment would dissolve into a minor, harmonious detail of a flawless universal theorem.)*
 
@@ -43,7 +43,7 @@ The syllogism does not mend the vessel, King Baldwin; it illuminates the mind th
 
 You speak of matter as though it were a light cloak one casts off at bedtime. But matter is the only language I have ever been allowed to speak. I led five hundred knights through the sands of Montgisard with my right arm strapped to a wooden splint because I could no longer hold a rein. My men did not die for a geometric proof, Ibn Rushd. They died in the heat because they believed their pain had a name in heaven. If your reason only tells me that my rotting face is an expected accident of the lower sphere, then your reason is not false—it is simply helpless. It is an ointment that smells of ink while the flesh rots beneath it.
 
-*([Sensory Indifference Detail]*
+*([Sensory Indifference Detail])*
 
 *As Baldwin speaks of his agonizing reign, a single drop of water falls from the iron spigot into the marble basin. A small brown leaf, dried and fragile, floats silently on the surface, moving a fraction of an inch across the moon’s reflection before coming to rest again.)*
 

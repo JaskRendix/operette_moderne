@@ -1,11 +1,11 @@
-# **Dialogue of Baldwin IV and Hildegard of Bingen on the Walls of Jerusalem**
+# Dialogue of Baldwin IV and Hildegard of Bingen on the Walls of Jerusalem
 
-**Characters:**
+## Characters
 
-* **Hildegard of Bingen** — A visionary abbess of the Rhine, seeing the universe as a vast, living tapestry of *viriditas*. She speaks with the luminous authority of one anchored in celestial order and divine purpose.
-* **Baldwin IV** — The Leper King of Jerusalem, worn by decay and physical torment. He speaks with the blunt realism of the flesh, carrying the bitter weight of *Il Vero*.
+- **Hildegard of Bingen** — A visionary abbess of the Rhine, seeing the universe as a vast, living tapestry of *viriditas*. She speaks with the luminous authority of one anchored in celestial order and divine purpose.
+- **Baldwin IV** — The Leper King of Jerusalem, worn by decay and physical torment. He speaks with the blunt realism of the flesh, carrying the bitter weight of *Il Vero*.
 
-**Setting:**
+## Setting
 
 *The windward terrace of a ruined fortress overlooking the Judean desert at twilight. The sun drops like a dying ember behind distant, chalk-white hills, painting the dry limestone in shades of cold violet. The air smells of dust, ancient salt, and dried thyme. A solitary, centuries-old olive tree—the “Silent Third Presence”—stands between them, its trunk split and hollowed by lightning, its silver leaves rustling dryly in the high air without bending to the wind. A distant vulture circles the valley below, indifferent to the crowns or prayers of men.*
 
@@ -17,7 +17,7 @@
 
 Look upon the expanse, my Lord. Is it not suffused with the *viriditas*—the living, greening breath of the Divine Fire? The universe is no chaotic void, but a vast, harmonious wheel, crafted like a precious jewel. Each star, each creature, each suffering spirit is bound into the cosmic fabric. You carry a heavy mantle upon this earth, royal child, but do not doubt that your trials are weighed in the celestial balance. The Living Light reveals to me that even the agonizing weight of your crown is ordained to refine the soul, to echo the sacred architecture of the heavens.
 
-*([Moment of False Hope]*
+*([Moment of False Hope])*
 
 *Baldwin turns his linen-bound face slightly toward the horizon. For a fleeting instant, as a solitary shaft of gold pierces the violet dusk and strikes the golden rim of his crown, his heart leaps—he feels a sudden, warm swell of purpose, imagining that the aching heat in his bones is indeed the sacred forge of a transcendent destiny.)*
 
@@ -37,7 +37,7 @@ The flesh is but the vessel, King of Jerusalem! The outer shell must wither so t
 
 A choir? If there is a song, Mother, it is sung in a language that leaves the lips numb. I have led armies with arms bound in linen to keep the flesh from sloughing off the bone during the charge. I sacrificed my youth, my blood, and the comfort of human touch to preserve a city of stone because I believed the heavens watched. Yet when the wind blows across this terrace, it does not distinguish between the scent of my royal ointments and the rot of a dead mule in the valley below.
 
-*([Sensory Indifference Detail]*
+*([Sensory Indifference Detail])*
 
 *As Baldwin speaks of his agonizing sacrifice, a small lizard scurries across the hot flagstones, stops over a flake of dried leather fallen from the King's sleeve, flicks its tongue, and vanishes into a crack in the masonry without a sound.)*
 

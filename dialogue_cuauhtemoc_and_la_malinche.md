@@ -1,11 +1,11 @@
-# **Dialogue between Cuauhtémoc and La Malinche**
+# Dialogue between Cuauhtémoc and La Malinche
 
-**Characters:**
+## Characters
 
-* **Cuauhtémoc** — The last Huey Tlatoani of the Mexica, bound by his wounds, luminous with the fever of imperial destiny.
-* **La Malinche** — Embodiment of the earth, rooted in matter and decay, smelling of damp clay and stagnant water.
+- **Cuauhtémoc** — The last Huey Tlatoani of the Mexica, bound by his wounds, luminous with the fever of imperial destiny.
+- **La Malinche** — Embodiment of the earth, rooted in matter and decay, smelling of damp clay and stagnant water.
 
-**Setting:**
+## Setting
 
 The smoldering ruins of Tenochtitlan at midnight, three months after the final siege of 1521.
 
@@ -19,7 +19,7 @@ Silent Third Presence: The ruined, half-toppled pyramid of Templo Mayor, its blo
 
 **Cuauhtémoc:**
 
-(Bound by his wrists to a charred cedar pillar, his voice a low, vibrating iron)
+*(Bound by his wrists to a charred cedar pillar, his voice a low, vibrating iron)*
 
 Malintzin. Or whatever name the dirt calls you now. Look upon what your sweet-tongued strangers have wrought: a kingdom turned to ash, our temples gutted, and a million children of the Mexica scattered like dry husks. Yet you stand there rooted to the soil, ageless and indifferent. Do you not feel the cosmic weight of the universe shattering? The gods of the sky did not die because they were weak; they stepped back to watch if humanity could prove worthy of the eternal empire we forged. Our suffering tonight is the prelude to a sacred martyrdom, a divine trial that will echo through the ages.
 
@@ -29,7 +29,7 @@ Even now, beneath this shroud of smoke, I feel the ancient pulse of Tenochtitlan
 
 **La Malinche:**
 
-(Emerging slowly from the wet loam at the base of the pillar, her eyes two dark pools of ancient mud)
+*(Emerging slowly from the wet loam at the base of the pillar, her eyes two dark pools of ancient mud)*
 
 You speak of suns, Cuauhtémoc, but you are only meat cooling on a stick. The sun rises because it has risen for a billion years before your ancestors crawled out of the weeds, and it will burn long after your bones dissolve. There was no covenant. There was only the seed falling into the dirt, rotting, and sprouting again without a single thought of your name.
 
@@ -39,13 +39,13 @@ You speak of suns, Cuauhtémoc, but you are only meat cooling on a stick. The su
 
 **Cuauhtémoc:**
 
-(Straining against his bonds, his eyes blazing with wounded pride)
+*(Straining against his bonds, his eyes blazing with wounded pride)*
 
 You speak like a creature without memory or honor! You are the land itself, but I am the voice that gave it shape, that turned blood and stone into architecture, law, and destiny. Do you not understand that history is a moral stage? Every sacrifice upon our altars was an ascent toward divine order. To reduce us to mere biology is to spit upon the very soul of consciousness!
 
 **La Malinche:**
 
-(Reaching out a hand caked in wet earth to touch his bleeding shin)
+*(Reaching out a hand caked in wet earth to touch his bleeding shin)*
 
 Consciousness is a fever of the skin, little king. You built your pyramids out of vanity to keep from hearing the earth digest you. The ants do not negotiate with the boot. When the steel cut through your warriors, they made the exact same wet, heavy thud as the deer we swallow in the spring. The soil does not keep ledgers of noble blood. It drinks the king and the slave with the exact same thirst.
 
@@ -59,7 +59,7 @@ A sudden, heavy drop of monsoon rain falls from the blackened sky, striking Cuau
 
 **La Malinche:**
 
-(Pressing her palm flat against the trembling earth)
+*(Pressing her palm flat against the trembling earth)*
 
 You call me a traitor because I moved with the current of the matter that birthed us both. But there was never any betrayal, Cuauhtémoc. There was only *il patimento* of the flesh breaking under the weight of time. You call this destruction a cosmic tragedy; nature calls it compost. Both your Huitzilopochtli and the white man's God are just louder ways of crying out against *la noia* of the silence that surrounds us. *L’inganno* of your divine mission was a sweet song you told yourselves to keep from hearing the wind in the reeds. But the song is over. *Il nulla* has swallowed the temples, and *la natura matrigna* watches our ruin with the same cold eyes she gives to a rotting log. We share *l’infelicità comune*, king and clay alike.
 
@@ -69,7 +69,7 @@ You call me a traitor because I moved with the current of the matter that birthe
 
 **Cuauhtémoc:**
 
-(His head dropping forward, the fierce light in his eyes flickering out like a dying ember)
+*(His head dropping forward, the fierce light in his eyes flickering out like a dying ember)*
 
 No... the blood of kings cannot simply be spilled for nothing. There must be... a judgment... an accounting...
 
@@ -83,7 +83,7 @@ It was all a magnificent, empty error. A *bel bell’inganno*. You dressed yours
 
 **Cuauhtémoc:**
 
-(A sudden shiver, his breath coming in ragged gasps)
+*(A sudden shiver, his breath coming in ragged gasps)*
 
 The truth settles over me like a heavy, suffocating fog. We tore each other to pieces over a dream whispered by blind priests. I feel... a strange weight, as if the empire I built is made of lead, and I am sinking with it.
 

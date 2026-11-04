@@ -1,11 +1,11 @@
-# **Dialogue of Balian and the Stonemason on the Ruined Ramparts**
+# Dialogue of Balian and the Stonemason on the Ruined Ramparts
 
-**Characters:**
+## Characters
 
-* **Balian of Ibelin** — Defender of Jerusalem, who surrendered the city to Saladin to save its people. He speaks with the quiet, hollowed exhaustion of a nobleman who has seen the absolute collapse of his moral universe.
-* **An Anonymous Stonemason** — A nameless builder whose hands shaped the limestone ashlar of the city's curtain wall. He speaks with the earthy, physical memory of sweat, mortar, chisels, and lime.
+- **Balian of Ibelin** — Defender of Jerusalem, who surrendered the city to Saladin to save its people. He speaks with the quiet, hollowed exhaustion of a nobleman who has seen the absolute collapse of his moral universe.
+- **An Anonymous Stonemason** — A nameless builder whose hands shaped the limestone ashlar of the city's curtain wall. He speaks with the earthy, physical memory of sweat, mortar, chisels, and lime.
 
-**Setting:**
+## Setting
 
 *A breaches-strewn section of the wall near the St. Stephen’s Gate, moments after the surrender terms have been struck. Smoke rises in thin grey threads from the burning siege towers in the valley of Kedron. The setting sun paints the dry stone the color of dried blood. Between them—the “Silent Third Presence”—lies a broken column of ancient Roman granite, half-buried in mortar dust, cracked by forgotten wars and entirely indifferent to this current one. High above, a solitary crow glides across the empty sky without making a sound.*
 
@@ -19,7 +19,7 @@
 
 My Lord Balian... I remember when we laid the ashlar along this northern flank twelve summers ago. The bishop blessed the mortar with holy oil, and the king himself laid the foundation stone. We squared every block to the millimeter—three cubits thick, double-faced, keyed into the bedrock so deep that even the roots of the olive trees could not pry them loose. We built it to outlast the generations, to stand as the wall of God until the end of days. Tell me, my Lord... as the smoke clears below... did the city survive?
 
-*([Moment of False Hope]*
+*([Moment of False Hope])*
 
 *For a single heartbeat, as the setting sun catches the golden dome of the city in a blaze of blinding light, the Mason’s heart swells—he imagines that the sweat of his youth and the crushed bones of his companions have held fast, securing a piece of eternity against the tide of history.)*
 
@@ -51,7 +51,7 @@ Then why did we build it? Why did three hundred men break their backs under the 
 
 Because we believed the stone had a memory. We believed that if we carved high enough into the sky, the sky would feel obligated to remember our names. We mistook the hardness of limestone for the permanence of our purpose.
 
-*([Sensory Indifference Detail]*
+*([Sensory Indifference Detail])*
 
 *As Balian speaks of their grand sacrifice, a small drift of white dust dislodges from the parapet above, trickles softly down the face of the masonry, and vanishes into the wind without leaving a trace.)*
 
