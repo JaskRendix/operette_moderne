@@ -1,4 +1,4 @@
-# Dialogue between José Rizal and Giuseppe Garibaldi
+# Dialogue of José Rizal and Giuseppe Garibaldi
 
 ## Characters
 

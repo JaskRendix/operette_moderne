@@ -1,4 +1,4 @@
-# The Dialogue of the Cartographer and the Ocean
+# Dialogue of the Cartographer and the Ocean
 
 ---
 

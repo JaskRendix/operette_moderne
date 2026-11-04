@@ -1,4 +1,4 @@
-# Dialogue between Ninoy Aquino and Aleksandr Solzhenitsyn
+# Dialogue of Ninoy Aquino and Aleksandr Solzhenitsyn
 
 ## Characters
 

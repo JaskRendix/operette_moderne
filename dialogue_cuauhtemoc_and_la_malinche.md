@@ -1,4 +1,4 @@
-# Dialogue between Cuauhtémoc and La Malinche
+# Dialogue of Cuauhtémoc and La Malinche
 
 ## Characters
 

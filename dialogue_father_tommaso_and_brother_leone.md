@@ -1,4 +1,4 @@
-# Dialogue between Father Tommaso and Brother Leone on the Eve of the Sentence
+# Dialogue of Father Tommaso and Brother Leone on the Eve of the Sentence
 
 ## Characters
 

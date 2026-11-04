@@ -1,4 +1,4 @@
-# The Dialogue of Penelope and the Woman of San Blas
+# Dialogue of Penelope and the Woman of San Blas
 
 ---
 

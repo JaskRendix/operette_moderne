@@ -1,4 +1,4 @@
-# Dialogue between Cuitláhuac and Guairá on the Edge of the World
+# Dialogue of Cuitláhuac and Guairá on the Edge of the World
 
 ## Characters
 

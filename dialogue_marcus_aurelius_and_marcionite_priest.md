@@ -1,4 +1,4 @@
-# The Dialogue of the Earth and the Void
+# Dialogue of the Earth and the Void
 
 *Marcus Aurelius and the Marcionite Priest*
 

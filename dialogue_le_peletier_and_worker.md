@@ -1,4 +1,4 @@
-# Dialogue between Louis-Michel Lepeletier and a Sans-culotte
+# Dialogue of Louis-Michel Lepeletier and a Sans-culotte
 
 ## Characters
 

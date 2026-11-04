@@ -1,4 +1,4 @@
-# The Dialogue of the Woman of San Blas and Nature
+# Dialogue of the Woman of San Blas and Nature
 
 ---
 
